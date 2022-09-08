@@ -1,1 +1,1 @@
-# General engineering
+# General engineering course in MIPT
